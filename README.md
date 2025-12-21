@@ -5,6 +5,10 @@ When working on powering an mobile embedded open source project I realized there
 
 # Features
 USB-C PD (100W) Input
+
 5-24V Output with 10A and 100W limits
+
 2S-4S Pack Configuration
+
 Onboard STM32 MCU for pack management
+
