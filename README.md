@@ -59,7 +59,7 @@ USB-C PD 240W Charging
 
 2S-4S Pack Topology (Parallel Depth tbd)
 
-5V-24V Regulated Output Voltage
+5V-48V Regulated Output Voltage
 
 24A Output Current Limit (tbd)
 
@@ -72,8 +72,6 @@ TJ0451 Output Connector
 USB-C PD 240W Charging
 
 2S-4S Pack Topology (Parallel Depth tbd)
-
-5V-24V Regulated Output Voltage
 
 5A Output Current Limit
 
