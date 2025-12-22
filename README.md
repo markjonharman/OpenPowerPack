@@ -3,7 +3,7 @@ Open Source hardware and software for 2S-4S Battery Controller
 
 When working on powering a mobile embedded open source project I realized there seemed to be a gap in the available open source hardware out there for making a USB-C power pack/power bank. Most projects focus on a smaller single LiPo or are focused on the substatially larger homewall type applications. Instead, this PCBA allows you to make a 2S-4S battery pack with fast charging and very high output power capabilities that can be easily be embedded in a design. The original vision was for supporting Raspberry Pi5 based systems but that is not where it has to end.
 
-The philosphy has been simple: leverage USB-C PD for input charging (and output on some versions) and provide maximum flexbility while trying to maintain costs as best as possible.
+The philosphy has been simple: leverage USB-C PD for input charging (and output on some versions) and provide maximum flexbility while trying to control costs as best as possible.
 
 The PCB will be designed such that it should be possible for PCBway, JLCPCB and others to fabricate it. Assembly for most people is also best handled by someone like PCBway or JLCPCB unless you are very experienced working with hot air tools.
 
