@@ -73,7 +73,7 @@ USB-C PD 240W Charging
 
 2S-4S Pack Topology (Parallel Depth tbd)
 
-5A Output Current Limit
+5A Output Current Limit (connector limited)
 
 240W Output Power Limit
 
