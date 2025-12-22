@@ -61,7 +61,7 @@ USB-C PD 240W Charging
 
 5V-48V Regulated Output Voltage
 
-20A Output Current Limit
+??A Output Current Limit
 
 240W Output Power Limit
 
