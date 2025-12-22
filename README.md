@@ -61,11 +61,11 @@ USB-C PD 240W Charging
 
 5V-48V Regulated Output Voltage
 
-24A Output Current Limit (tbd)
+20A Output Current Limit
 
 240W Output Power Limit
 
-TJ0451 Output Connector
+TJ0251 Output Connector
 
 **OPP-240-5-PD**
 
