@@ -19,7 +19,7 @@ USB-C PD 100W Charging
 
 5V-24V Regulated Output Voltage
 
-5A Output Current Limit (connector limited)
+5A Output Current Limit
 
 100W Output Power Limit
 
@@ -73,7 +73,7 @@ USB-C PD 240W Charging
 
 2S-4S Pack Topology (Parallel Depth tbd)
 
-5A Output Current Limit (connector limited)
+5A Output Current Limit
 
 240W Output Power Limit
 
